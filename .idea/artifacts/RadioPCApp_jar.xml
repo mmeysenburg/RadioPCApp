@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RadioPCApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RadioPCApp_jar</output-path>
+    <root id="archive" name="RadioPCApp.jar">
+      <element id="module-output" name="RadioPCApp" />
+    </root>
+  </artifact>
+</component>
